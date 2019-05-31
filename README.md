@@ -1,8 +1,9 @@
 Included are 4 seperate folders with code:
 
-1. OfficialResultsCode/ : this folder contains our official code used to find our results;
+1. OfficialResultsCode/ : this folder contains our official code (in 2 seperate programs) used to find our results (shown in data excel file);
 a. TorNetworkAttacker.java : Simulation utilizing Game Theory to increase an attacker's chances of owning identifying a once anonymous user (the defender).
 b. TorNetworkDefender.java : Similar to the Attacker simulation, this code uses Game Theory to decrease the attacker's success rate, in order to remain anonymous.
+c. Data.xlsx : Complete, comprehensive table of our results.
 
 2. PreliminaryCode(NotFinal)/ : This folder includes the original code, Preliminary.c written in c at the time of submitting our research proposal paper. This is a very rough, unorganized draft of the code that doesn't include many of the necessary variables. THIS IS NOT REFLECTIVE OF OUR REPORTED RESULTS. 
 
